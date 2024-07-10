@@ -7,7 +7,7 @@ This project aims to provide a comprehensive educational platform for individual
 - [Features](#features)
 - [Technologies Used](#technologies)
 - [Contact](#contact)
-- [Link to this sitr](#Link)
+- [Link to this site](#Link)
 
 
 ## Features
