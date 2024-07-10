@@ -1423,3 +1423,8 @@ pre {
     display: none;
   }
 }
+@media (max-width: 550px) {
+  .redirect-end-container {
+    display: none;
+  }
+}
