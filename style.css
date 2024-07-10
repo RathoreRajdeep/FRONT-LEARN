@@ -374,7 +374,7 @@ marquee{
 /* html intro css */
 .html-content,.css-content,.js-content {
   text-align: center;
-  margin-top: 15%;
+  margin-top: 220px;
 }
 
 .intro-heading {
@@ -1416,6 +1416,9 @@ pre {
 @media (max-width: 1090px) {
   .html-upper img, .css-upper img, .js-upper img ,.first-heading{
     display: none;
+  }
+  .html-content,.css-content,.js-content {
+    margin-top: 130px;
   }
 }
 @media (max-width: 600px) {
